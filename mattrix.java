@@ -1,4 +1,4 @@
-public class mattrix {
+public class matrix {
     public static void main(String[] args) {
         int[][] matri=new int[2][2];
         int[][] matrix1 =new int[2][2];
