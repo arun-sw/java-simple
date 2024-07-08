@@ -13,7 +13,5 @@ class main{
         out.name="arun";
         out.rollno = 1234;
         out.display();
-
-
     }
 }
