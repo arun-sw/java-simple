@@ -2,7 +2,6 @@ public class constroctor {
     int rollno;
     String name;
     int mark;
-
     constroctor(int rollno, int mark) {
         System.out.println(rollno);
         name="arun";
@@ -17,7 +16,6 @@ public class constroctor {
 class num{
     public static void main(String[] args)
     {
-        constroctor con=new constroctor(55,100);
-
-        }
+        constroctor con=new constroctor(88,100);
+    }
 }
