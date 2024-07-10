@@ -6,7 +6,6 @@ public class matrix {
         matrix1[0][0]=4;
         matrix1[0][1]=9;
         matrix1[1][0]=7;
-
         matri[0][0]=5;
         matri[0][1]=9;
         matri[1][0]=6;
