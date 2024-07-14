@@ -1,4 +1,5 @@
 public class constroctor {
+    
     int rollno;
     String name;
     int mark;
