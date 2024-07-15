@@ -1,4 +1,4 @@
-class main{
+public class main{
     public static void main(String[] args) {
         letter l = new letter();
         l.count();
