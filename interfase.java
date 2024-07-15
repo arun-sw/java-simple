@@ -1,8 +1,8 @@
-interface anima{
+interface animal{
     abstract void cat();
     abstract void dog();
     }
- class lotlog implements anima
+ class lotlog implements animal
  {public void cat(){
         System.out.println("i eat the biscat");
     }
