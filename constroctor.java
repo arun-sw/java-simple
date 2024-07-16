@@ -17,6 +17,6 @@ public class constroctor {
 class num{
     public static void main(String[] args)
     {
-        constroctor con=new constroctor(88,100);
+        constroctor con=new constroctor(33,100);
     }
 }
