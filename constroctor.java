@@ -1,19 +1,19 @@
 public class constroctor
     {    
     int regno;
-    String nem;
+    String nam;
     int mark;
     constroctor(int regno, int mark)
         {
         System.out.println(regno);
         name="arun";
-        System.out.println(name);
+        System.out.println(nam);
         System.out.println(mark);
     }
     public void display(String[] args) 
     {
         System.out.println(regno);
-        System.out.println(name);
+        System.out.println(nam);
     }
 }
 class num{
