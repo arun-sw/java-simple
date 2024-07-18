@@ -1,14 +1,17 @@
-public class constroctor {    
+public class constroctor
+    {    
     int regno;
     String name;
     int mark;
-    constroctor(int regno, int mark) {
+    constroctor(int regno, int mark)
+        {
         System.out.println(regno);
         name="arun";
         System.out.println(name);
         System.out.println(mark);
     }
-    public void display(String[] args) {
+    public void display(String[] args) 
+    {
         System.out.println(regno);
         System.out.println(name);
     }
