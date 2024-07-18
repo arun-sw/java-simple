@@ -2,7 +2,7 @@ public class constroctor {
     int regno;
     String name;
     int mark;
-    constroctor(int rollno, int mark) {
+    constroctor(int regno, int mark) {
         System.out.println(regno);
         name="arun";
         System.out.println(name);
