@@ -3,13 +3,13 @@ public class constroctor {
     String name;
     int mark;
     constroctor(int rollno, int mark) {
-        System.out.println(rollno);
+        System.out.println(regno);
         name="arunkumar";
         System.out.println(name);
         System.out.println(mark);
     }
     public void disp(String[] args) {
-        System.out.println(rollno);
+        System.out.println(regno);
         System.out.println(name);
     }
 }
