@@ -8,7 +8,7 @@ public class constroctor {
         System.out.println(name);
         System.out.println(mark);
     }
-    public void disp(String[] args) {
+    public void display(String[] args) {
         System.out.println(regno);
         System.out.println(name);
     }
