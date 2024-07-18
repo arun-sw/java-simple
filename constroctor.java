@@ -4,7 +4,7 @@ public class constroctor {
     int mark;
     constroctor(int rollno, int mark) {
         System.out.println(regno);
-        name="arunkumar";
+        name="arun";
         System.out.println(name);
         System.out.println(mark);
     }
