@@ -1,4 +1,4 @@
-public class constroctor {    
+  public class constroctor {    
     int regno;
     String name;
     int mark;
