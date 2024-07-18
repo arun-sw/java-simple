@@ -1,5 +1,5 @@
 public class constroctor {    
-    int no;
+    int regno;
     String name;
     int mark;
     constroctor(int rollno, int mark) {
