@@ -1,7 +1,7 @@
 public class constroctor
     {    
     int regno;
-    String name;
+    String nem;
     int mark;
     constroctor(int regno, int mark)
         {
