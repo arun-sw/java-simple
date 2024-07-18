@@ -1,6 +1,5 @@
-public class constroctor {
-    
-    int rollno;
+public class constroctor {    
+    int no;
     String name;
     int mark;
     constroctor(int rollno, int mark) {
