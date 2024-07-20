@@ -4,10 +4,10 @@ public class main{
         l.count();
     }
 }
-abstract class number{
+abstract class num{
     abstract void count();
         }
-class letter extends number{
+class letter extends num{
     void count(){
         System.out.println("countless");
     }
