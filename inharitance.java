@@ -5,7 +5,7 @@ public class inharitance {
         System.out.println("red");
     }
     public void prise(){
-        System.out.println("600");
+        System.out.println("500");
     }
 }
 class puma extends inharitance{
@@ -13,7 +13,6 @@ class puma extends inharitance{
 }
 class call{
     public static void main(String[] args) {
-//        inharitance in =new inharitance();
         puma in=new puma();
         System.out.println(in.whool);
         System.out.println(in.shoes);
