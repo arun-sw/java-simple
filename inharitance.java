@@ -1,5 +1,5 @@
 public class inharitance {
-    int whool=46;
+    int whool=40;
 
     public void collar(){
         System.out.println("red");
@@ -9,7 +9,7 @@ public class inharitance {
     }
 }
 class puma extends inharitance{
-    String shoes="puma";
+    String shoes="puma shoes";
 }
 class call{
     public static void main(String[] args) {
