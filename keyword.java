@@ -13,7 +13,7 @@ public class keyword {
             System.out.println("All animals");
         }
         void dog(){
-            System.out.println("i am muturl");
+            System.out.println("i am home animal");
         }
 
     }
