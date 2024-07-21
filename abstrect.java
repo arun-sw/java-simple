@@ -1,8 +1,8 @@
 public class main{
     public static void main(String[] args) 
     {
-        cherater l = new cherter();
-        l.count();
+        cherater a = new cherter();
+        a.count();
     }
 }
 abstract class num{
