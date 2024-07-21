@@ -18,7 +18,6 @@ public class userdif extends Exception{
     }
     public static void main(String[] args) {
         try
-
         {
             System.out.println("Enter the legs");
             int leg=new Scanner(System.in).nextInt();
@@ -28,9 +27,7 @@ public class userdif extends Exception{
             System.out.println(d);
         }
         catch (userdif d){
-            System.out.println(d);
+            System.out.println(d.getmassage);
         }
     }
 }
-
-
