@@ -1,13 +1,10 @@
 import java.util.Scanner;
-
 public class userdif extends Exception{
     userdif(String str){
         super(str);
     }
-
 } class target {
     static void animal(int leg) throws userdif{
-
         if(leg<=2)
         {
             throw new ArithmeticException("it's are human");
@@ -24,7 +21,7 @@ public class userdif extends Exception{
             animal(leg);
         }
         catch (ArithmeticException d){
-            System.out.println(d);
+            System.out.println(d.getmassage);
         }
         catch (userdif d){
             System.out.println(d.getmassage);
