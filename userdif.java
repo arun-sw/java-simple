@@ -5,7 +5,7 @@ public class userdif extends Exception{
         super(str);
     }
 
-} class targrt {
+} class target {
     static void animal(int leg) throws userdif{
 
         if(leg<=2)
