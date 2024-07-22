@@ -1,6 +1,4 @@
-import java.util.Locale;
 import java.util.Scanner;
-
 public class datatype {
     public static void main(String[] args) {
         String s=Integer.toString(4);
