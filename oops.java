@@ -10,7 +10,7 @@ public class oops {
 class main{
     public static void main(String[] args) {
         oops out = new oops();
-        out.name="arun";
+        out.name="arunkumar";
         out.rollno = 1234;
         out.display();
     }
