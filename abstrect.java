@@ -5,10 +5,10 @@ public class main{
         a.count();
     }
 }
-abstract class num{
+abstract class number{
     abstract void count();
         }
-class cherater extends num{
+class cherater extends number{
     void count(){
         System.out.println("countless");
     }
