@@ -10,7 +10,7 @@ public class userdif extends Exception{
             throw new ArithmeticException("it's is human");
         }
         else {
-            throw new userdif("it's are not human");
+            throw new userdif("it's is not human");
         }
     }
     public static void main(String[] args) {
