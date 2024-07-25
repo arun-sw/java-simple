@@ -11,10 +11,8 @@ class team implements Runnable {
     }
        public void run(){
             for(int i=1;i<=1000;i++){
-                counter.incrementbottle();
-            }
-        }
-    }
+                counter.incrementbottle();}
+        }}
 class sync{
     public static void main(String[] args) {
         bottle counter=new bottle();
