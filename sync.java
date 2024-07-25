@@ -7,7 +7,7 @@ class bottle{
 class team implements Runnable {
     bottle counter;
     team(bottle bot) {
-        this.counter = bot;
+        this.counter = bot ;
     }
        public void run(){
             for(int i=1;i<=1000;i++){
