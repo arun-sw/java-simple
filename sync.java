@@ -10,7 +10,7 @@ class team implements Runnable {
         this.counter = bot ;
     }
        public void run(){
-            for(int i=1;i<=1000;i++){
+            for(int i=1;i<=2000;i++){
                 counter.incrementbottle();}
         }}
 class sync{
