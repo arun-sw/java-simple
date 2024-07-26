@@ -5,7 +5,6 @@ public class stati {
         l.dog();
       forest.allanimals();
         System.out.println(lion.lionhave);
-
     }
 }
 class forest{
