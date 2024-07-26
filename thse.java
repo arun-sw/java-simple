@@ -4,7 +4,8 @@ public class thse {
         h.print(15, 'a');
         System.out.println(h.name);
         System.out.println(h.room);
-    }
+    
+       }
     }
     class home{
         int room;
