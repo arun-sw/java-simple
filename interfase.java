@@ -4,10 +4,10 @@ interface animal{
     }
  class lotlog implements animal
  {
-     public void cat(){
+     public void cats(){
     System.out.println("i eat the biscat");
     }
-    public void dog(){
+    public void dogs(){
         System.out.println("i like the biscat");
     }
 
