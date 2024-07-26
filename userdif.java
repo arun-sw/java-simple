@@ -7,10 +7,10 @@ public class userdif extends Exception{
     static void animal(int leg) throws userdif{
         if(leg<=2)
         {
-            throw new ArithmeticException("it's is human");
+         throw new ArithmeticException("it's is human");
         }
         else {
-            throw new userdif("it's is not human");
+          throw new userdif("it's is not human");
         }
     }
     public static void main(String[] args) {
