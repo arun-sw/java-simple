@@ -1,5 +1,5 @@
 public class inharitance {
-    int whool=40;
+    int whool=50;
 
     public void collar(){
         System.out.println("block");
