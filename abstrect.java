@@ -1,7 +1,7 @@
 public class main{
     public static void main(String[] args) 
     {
-        cherater a = new cherter();
+        cherater n = new cherter();
         a.count();
     }
 }
