@@ -14,7 +14,16 @@ public class thered {
         for (i=0;i<4;i++){
             dailyrotine dol = new dailyrotine();
             dol.start();
+            try {
+                if(i==1){
+                    dol.sleep(2000);
+                }
+            }
+            catch(Exception n){
+
+            }
         }
+
 
     }
 }
