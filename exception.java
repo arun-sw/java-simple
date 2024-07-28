@@ -1,6 +1,6 @@
 public class exception {
     public static void main(String[] args) {
-        int a =3;
+         int a =3;
         int b=6;
         try {
             System.out.println(a/b);
