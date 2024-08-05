@@ -3,7 +3,7 @@
 {
 public void run(){
     System.out.println("I'm going to clg "+dailyrotine.currentThread().getId());
-    System.out.println("i am study "+dailyrotine.currentThread().getId());
+  System.out.println("i am study "+dailyrotine.currentThread().getId());
     System.out.println("i am came "+dailyrotine.currentThread().getId());
     System.out.println("i am running "+dailyrotine.currentThread().getId());
 }
