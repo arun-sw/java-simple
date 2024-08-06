@@ -2,10 +2,10 @@ public class inharitance {
     int whool=50;
 
     public void collar(){
-        System.out.println("block");
+        System.out.println("red");
     }
     public void prise(){
-        System.out.println("500");
+        System.out.println("400");
     }
 }
 class puma extends inharitance{
