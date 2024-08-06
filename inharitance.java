@@ -9,7 +9,7 @@ public class inharitance {
     }
 }
 class puma extends inharitance{
-    String shoes="puma shoes";
+    String shoes="PUMA shoes";
 }
 class call{
     public static void main(String[] args) {
