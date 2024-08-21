@@ -7,6 +7,7 @@ public class stati {
         System.out.println(lion.lionhave);
     }
 }
+
 class forest{
    static   void allanimals(){
          System.out.println("All animals");
