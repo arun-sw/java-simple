@@ -5,8 +5,10 @@ public class main{
         b.count();
     }
 }
+
 abstract class number{
     abstract void count();
+    
         }
 class cherater extends number{
     void count(){
