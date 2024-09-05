@@ -6,6 +6,7 @@ public class main{
     }
 }
 abstract class number{
+    
     abstract void count();   
         }
 
