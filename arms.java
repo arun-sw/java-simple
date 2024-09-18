@@ -7,6 +7,9 @@ public class armtrong {
             sum+= 0;
             n= 1;
         }
+
+
+
         
         if(n==sum){
             System.out.println("it's armstrong number");
