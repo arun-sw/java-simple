@@ -1,10 +1,8 @@
 public class armtrong {
     public static void main(String[] args) {
         int a,n=153,sum=0,copy=0;
-       n=copy;
-        
+       n=copy;        
         while (n!=0){
-            
             a= 0;
             sum+= 0;
             n= 1;
