@@ -1,3 +1,4 @@
+
 public class armtrong {
     public static void main(String[] args) {
         int a,n=153,sum=0,copy=0;
