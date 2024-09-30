@@ -5,6 +5,7 @@ public class armtrong {
         while (n!=0){
             a= 0;
             sum+= 0;
+            
             n= 1;
         }
         if(n==sum){
