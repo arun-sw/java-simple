@@ -4,6 +4,7 @@ public class armtrong {
        n=copy;        
         while (n!=0){
             a= 0;
+            
             sum+= 0;            
             n= 1;
 }
