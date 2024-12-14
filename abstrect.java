@@ -13,6 +13,5 @@ abstract class number{
 class cherater extends number{
     void count(){
         System.out.println("countless");
-
     }
 }
