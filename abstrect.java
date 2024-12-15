@@ -3,6 +3,7 @@ public class main{
     {        
         cherater n = new cherter();
         b.count();
+        
     }
 }
 
