@@ -17,5 +17,6 @@ class dog extends animal{
 }
 class human extends dog{
     int legs=2;
+    
     String iam="i am a human";
 }
