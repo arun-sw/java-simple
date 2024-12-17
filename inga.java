@@ -1,6 +1,7 @@
 public class inga{
     public static void main(String[] args) {
         animal ani =new animal();
+        
        dog do = new dog();
         human h = new human();
         System.out.println(h.legs);
