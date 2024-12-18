@@ -5,6 +5,7 @@ public class datatype {
         System.out.println(s);
         String e= Integer.toBinaryString(5);
         System.out.println(e);
+        
         String k=String.valueOf(s);
         System.out.println(k);
       }
