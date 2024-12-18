@@ -4,8 +4,7 @@ public class datatype {
         String s=Integer.toString(4);
         System.out.println(s);
         String e= Integer.toBinaryString(5);
-        System.out.println(e);
-        
+        System.out.println(e);        
         String k=String.valueOf(s);
         System.out.println(k);
       }
