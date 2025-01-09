@@ -5,7 +5,6 @@ public class main{
         b.count();
     }
 }
-
 abstract class number{
     abstract void count();   
         }
