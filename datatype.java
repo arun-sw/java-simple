@@ -1,6 +1,5 @@
 import java.util.Scanner;
-public class datatype {
-    
+public class datatype {    
     public static void main(String[] args) {
         String s=Integer.toString(4);
         System.out.println(s);
