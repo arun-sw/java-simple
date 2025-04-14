@@ -6,7 +6,6 @@ public class poly {
         System.out.println(k);
         System.out.println("i can");
     }
-
     public static void main(String[] args) {
         poly p =new poly();
         p.run();
