@@ -5,7 +5,6 @@ public class main{
         cherater n = new cherter();
         b.count();
     }
-
 }
 abstract class number{
     abstract void count();   
