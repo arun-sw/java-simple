@@ -3,8 +3,7 @@ public class thse {
         home h = new home();
         h.print(15, 'a');
         System.out.println(h.name);
-        System.out.println(h.room);
-    
+        System.out.println(h.room);    
        }
     }
     class home{
