@@ -4,8 +4,7 @@ public class multilevel {
         h.all();
         bedroom b=new bedroom();
         b.bed();
-        kitchen k = new kitchen();
-        
+        kitchen k = new kitchen();        
         k.samayalkattu();
     }
 }
