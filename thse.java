@@ -1,5 +1,6 @@
 public class thse {
     public static void main(String[] args) {
+        
         home h = new home();
         h.print(15, 'a');
         System.out.println(h.name);
