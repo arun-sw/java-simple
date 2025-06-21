@@ -6,7 +6,6 @@ public class thse {
         System.out.println(h.room);    
        }
     }
-
     class home{
         int room;
         char  name;
