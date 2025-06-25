@@ -8,7 +8,6 @@ public class main{
 abstract class number{
     abstract void count();   
         }
-
 class cherater extends number{
     void count(){
         System.out.println("countless");
