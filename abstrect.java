@@ -1,7 +1,7 @@
 public class main{    
     public static void main(String[] args) 
-    {        
-        cherater n = new cherter();
+    {      
+    cherater n = new cherter();
         b.count();
     }
 }
@@ -13,3 +13,4 @@ class cherater extends number{
         System.out.println("countless");
     }
 }
+
